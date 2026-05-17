@@ -1,0 +1,92 @@
+fuente,subespecie,individuo,Largo_HC,Largo_C,HI,HO,AC,EA,EP,BQaCD,PF
+Libro_1922,C. d. crinitus,NA,77,93,13,15,12,37,62,25,19 a 20
+Libro_1922,C. d. draconoides,NA,55,62,11,12,10,29,50,22,12 a 20
+Libro_1922,C. d. draconoides,NA,60,73,11,13,11,31,52,22,NA
+Libro_1922,C. d. draconoides,NA,65,NA,13,14,12,33,61,28,NA
+Libro_1922,C. d. draconoides,NA,67,80,12,14,11,36,62,27,NA
+Libro_1922,C. d. draconoides,NA,67,NA,13,14,11,35,62,27,NA
+Libro_1922,C. d. draconoides,NA,68,NA,12,14,12,37,65,28,NA
+Libro_1922,C. d. draconoides,NA,80,122,15,17,14,40,68,27,12 a 19
+Libro_1922,C. d. carmenensis,NA,75,110,13,15,13,42,72,29,NA
+Libro_1922,C. d. carmenensis,NA,77,116,13.5,15,13,43,73,30,NA
+Libro_1922,C. d. carmenensis,NA,79,113,14,16,14,43,73,29,NA
+Libro_1922,C. d. carmenensis,NA,80,106,14,16,13,41,75,30,NA
+Libro_1922,C. d. carmenensis,NA,80,112,14.5,16,14,41,72,29,NA
+Libro_1922,C. d. carmenensis,NA,80,110,14.5,17,14,43,74,30,NA
+Libro_1922,C. d. splendidus,NA,60,81,11,12.5,11,34,60,24,11 a 17
+Libro_1922,C. d. splendidus,NA,65,80,12.5,13.5,11,34,60,24,NA
+Libro_1922,C. d. splendidus,NA,65,90,11.5,13,10,35,60,24,NA
+Libro_1922,C. d. splendidus,NA,66,78,12,13,11,36,61,24,NA
+Libro_1922,C. d. splendidus,NA,66,85,12,14,11,33,58,23,NA
+Libro_1922,C. d. splendidus,NA,67,97,12,13,12,37,65,26,NA
+Libro_1922,C. d. inusitatus,NA,80,111,14,16,13,46,80,32,16 a 22
+Libro_1922,C. d. inusitatus,NA,85,119,14,16,14,47,80,33,NA
+Libro_1922,C. d. inusitatus,NA,93,127,16,17,14,49,85,33,NA
+Libro_1922,C. d. inusitatus,NA,96,124,17,18,15,52,86,32,NA
+Libro_1922,C. d. inusitatus,NA,98,134,16,18,15,50,84,32.5,NA
+Libro_1922,C. d. inusitatus,NA,100,121,16,17,15,50,84,32,NA
+Libro_1922,C. d. ventralis,NA,44,59,9,10,9,24,41,17,11 a 24
+Libro_1922,C. d. ventralis,NA,72,102,13,15,13,42,70,31,NA
+Libro_1922,C. d. ventralis,NA,74,98,13,14,13,41,65,30,NA
+Libro_1922,C. d. ventralis,NA,82,107,14,16,14,45,76,33,NA
+Libro_1922,C. d. ventralis,NA,86,117,15,16,14,49,79,35,NA
+Libro_1922,C. d. ventralis,NA,88,NA,15,16,14,46,NA,NA,11 a 17
+Libro_1922,C. d. ventralis,NA,93,130,NA,NA,NA,NA,NA,NA,NA
+Libro_1922,C. d. myrus,NA,66,79,12,13,11,33,60,24,NA
+Libro_1922,C. d. myrus,NA,69,92,13,14,12,38,64,26,NA
+Libro_1922,C. d. myrus,NA,80,99,15,16,13.5,44,75,29,NA
+Libro_1922,C. d. myrus,NA,82,98,14,15,14,42,74,29,NA
+Libro_1922,C. d. myrus,NA,82,104,15,16,14,41,71,28,NA
+Libro_1922,C. d. myrus,NA,86,NA,15,16,15,45,74,29,NA
+Cerro_Bachoco_2019,NA,CD02A; CD02B,50,70,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD03A; CD03B,70,70,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD04,72,80,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD05,55,30,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD06,64,66,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD07,70,87,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD08,62,63,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD09,65,80,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD10,75,66,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD11,76,77,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD12,65,60,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD13,77,95,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD14,50,58,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD15,55,66,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD16,45,42,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD17,52,65,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD18,38,52,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD19,35,42,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD20,42,53,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD21,40,56,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD22,48,65,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD23,28,39,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD24,30,38,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD25,30,22,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD26,50,73,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD27,35,20,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD28,43,50,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD29,40,45,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD30,30,35,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD31,33,40,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD32,50,73,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD33,42,53,NA,NA,NA,NA,NA,NA,NA
+Cerro_Bachoco_2019,NA,CD34,40,50,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CDJH,63,59,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD35,50,70,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD36,43,55,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD37,50,57,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD38,52,52,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD39,57,50,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD40,54,66,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD41,44,60,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD42,44,60,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD43,66,57,NA,NA,NA,NA,NA,NA,NA
+Cerro_Johnson_2019,NA,CD44,54,52,NA,NA,NA,NA,NA,NA,NA
+Playa_Miramar_2019,NA,CD65,75,67,NA,NA,NA,NA,NA,NA,NA
+Playa_Miramar_2019,NA,CD66,76,96,NA,NA,NA,NA,NA,NA,NA
+Playa_Miramar_2019,NA,CD67,75,100,NA,NA,NA,NA,NA,NA,NA
+Playa_Miramar_2019,NA,CD68,55,70,NA,NA,NA,NA,NA,NA,NA
+Playa_Miramar_2019,NA,CD69,62,56,NA,NA,NA,NA,NA,NA,NA
+Playa_Miramar_2019,NA,CD70,73,57,NA,NA,NA,NA,NA,NA,NA
+Playa_Miramar_2019,NA,CD71,70,100,NA,NA,NA,NA,NA,NA,NA
+Playa_Miramar_2019,NA,CD72,26,32,NA,NA,NA,NA,NA,NA,NA
