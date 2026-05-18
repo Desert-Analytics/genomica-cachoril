@@ -9,6 +9,7 @@ data/processed/*
 !data/raw/cytb.txt
 !data/raw/mc1r.txt
 !data/raw/morfometricos.xlsx
+!data/processed/morfometricos.csv
 
 # Python-generated files
 __pycache__/
