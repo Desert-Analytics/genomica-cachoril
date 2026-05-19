@@ -61,9 +61,8 @@
    * [x] ANOVA — Javier
    * [x] AMOVA — Juan
    * [ ] Dendrogramas — Brayan
-   * [ ] Regresión lineal — Marcel
+   * [x] Regresión lineal / PCA + distancias — Marcel
    * [x] Bootstrapping — Isaul
 
 4. [ ] Presentación Google Slides (martes 19/mayo, 22:00)
    [https://docs.google.com/presentation/d/1PK5heKNZk8hVjaU5NcMh3oSBVyaJQyQIB7d5JCGPtSY/edit?usp=sharing](https://docs.google.com/presentation/d/1PK5heKNZk8hVjaU5NcMh3oSBVyaJQyQIB7d5JCGPtSY/edit?usp=sharing)
-   

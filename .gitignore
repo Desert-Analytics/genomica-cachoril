@@ -9,7 +9,9 @@ data/processed/*
 !data/raw/cytb.txt
 !data/raw/mc1r.txt
 !data/raw/morfometricos.xlsx
+!data/raw/Datos Cytb y Mc1r Hague y Routman, 2015.xlsx
 !data/processed/morfometricos.csv
+!data/processed/accessions_coordinates.csv
 
 # Python-generated files
 __pycache__/
