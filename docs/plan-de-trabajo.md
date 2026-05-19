@@ -29,24 +29,24 @@
 
 ## Presentación — Equipo
 
-**Fecha límite:** lunes 19 de mayo a las 22:00
+**Fecha límite:** martes 19 de mayo a las 22:00
 
 * Google Slides: [https://docs.google.com/presentation/d/1PK5heKNZk8hVjaU5NcMh3oSBVyaJQyQIB7d5JCGPtSY/edit?usp=sharing](https://docs.google.com/presentation/d/1PK5heKNZk8hVjaU5NcMh3oSBVyaJQyQIB7d5JCGPtSY/edit?usp=sharing)
 
 ### Estructura
 
 1. Introducción
-   1.1 Descripción del problema
-   1.2 Objetivo del análisis
-   1.3 Descripción de los datos
+   1. Descripción del problema
+   1. Objetivo del análisis
+   1. Descripción de los datos
 
 2. Desarrollo
-   2.1 Metodología y resultados
-   2.1.1 ANOVA
-   2.1.2 AMOVA
-   2.1.3 Dendrogramas
-   2.1.4 Regresión lineal
-   2.1.5 Bootstrapping
+   1. Metodología y resultados
+      1.  ANOVA
+      2. AMOVA
+      3. Dendrogramas
+      4. Regresión lineal
+      5. Bootstrapping
 
 3. Conclusiones
 
@@ -56,13 +56,13 @@
 
 2. [ ] Datos - ETL (sábado 16/mayo, 22:00)
 
-3. [ ] Trabajo individual (lunes 17/mayo, 22:00)
+3. [ ] Trabajo individual (lunes 18/mayo, 22:00)
 
-   * [ ] ANOVA — Javier
-   * [ ] AMOVA — Juan
+   * [x] ANOVA — Javier
+   * [x] AMOVA — Juan
    * [ ] Dendrogramas — Brayan
    * [ ] Regresión lineal — Marcel
-   * [ ] Bootstrapping — Isaul
+   * [x] Bootstrapping — Isaul
 
 4. [ ] Presentación Google Slides (martes 19/mayo, 22:00)
    [https://docs.google.com/presentation/d/1PK5heKNZk8hVjaU5NcMh3oSBVyaJQyQIB7d5JCGPtSY/edit?usp=sharing](https://docs.google.com/presentation/d/1PK5heKNZk8hVjaU5NcMh3oSBVyaJQyQIB7d5JCGPtSY/edit?usp=sharing)
