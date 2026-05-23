@@ -52,17 +52,17 @@
 
 ## Pendientes
 
-1. [ ] Formato LICE (sábado 23/mayo, 10:00)
+1. [X] Formato LICE (sábado 23/mayo, 10:00)
 
-2. [ ] Datos - ETL (sábado 16/mayo, 22:00)
+2. [X] Datos - ETL (sábado 16/mayo, 22:00)
 
 3. [ ] Trabajo individual (lunes 18/mayo, 22:00)
 
    * [x] ANOVA — Javier
    * [x] AMOVA — Juan
-   * [ ] Dendrogramas — Brayan
+   * [X] Dendrogramas — Brayan
    * [x] Regresión lineal / PCA + distancias — Marcel
    * [x] Bootstrapping — Isaul
 
-4. [ ] Presentación Google Slides (martes 19/mayo, 22:00)
+4. [X] Presentación Google Slides (martes 19/mayo, 22:00)
    [https://docs.google.com/presentation/d/1PK5heKNZk8hVjaU5NcMh3oSBVyaJQyQIB7d5JCGPtSY/edit?usp=sharing](https://docs.google.com/presentation/d/1PK5heKNZk8hVjaU5NcMh3oSBVyaJQyQIB7d5JCGPtSY/edit?usp=sharing)
